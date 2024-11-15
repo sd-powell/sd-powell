@@ -55,7 +55,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sd-powell&theme=vue-dark&hide_border=false" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=sd-powell&theme=dark&hide_border=true" alt="GitHub Streak"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=sd-powell&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sd-powell&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
