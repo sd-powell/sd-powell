@@ -56,7 +56,7 @@ Always learning, always coding—feel free to check out my projects below!
 ## Portfolio Sites
 
 ### DJ Silver Soul Pop Quiz
-<a href="https://github.com/LewisMDillon/snakes-and-ladders"><img align="right" src="static/img/snakes_and_ladders.jpg" width="250px" alt="Snakes and Ladders"><a/>
+<a href="https://github.com/LewisMDillon/snakes-and-ladders"><img align="right" src="static/img/snakes_and_ladders.jpg" width="250px" alt="DJ Silver Soul Pop Quiz"><a/>
 🖼️ An interactive, disco-themed music trivia game where players race against the clock to test their knowledge and climb the leaderboard.
 <br>
 ⚙️ Technologies Used - Javascript, HTML5, CSS
