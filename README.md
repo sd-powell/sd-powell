@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 I’m a passionate Web Application Developer currently working towards my Level 4 Diploma in Web Application Development. I enjoy building clean, efficient, and user-focused applications, with a particular interest in solving problems through code.
 
-Always learning, always coding—feel free to check out my projects below!
+Always learning, always coding — feel free to check out my projects below!
 
  
-- 🔭 I’m currently working on my **3rd Milestone Project**
+- 🔭 I’m currently working on my **Meal Tracker API**
  
-- 🌱 I’m currently learning **Python + Django, MySQL/Postgres**
+- 🌱 I’m currently learning **node.js + Typescript, MySQL/Postgres**
 
-- 💬 Ask me about **HTML, CSS... or anything [here](https://github.com/sd-powell/sd-powell/issues)**
+- 💬 Ask me about **Python, Django... or anything [here](https://github.com/sd-powell/sd-powell/issues)**
 
 ---
 
